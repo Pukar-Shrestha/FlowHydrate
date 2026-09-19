@@ -300,22 +300,6 @@ static let quickAmounts: [Double] = [100, 250, 500, 750]
 
 Use this checklist when preparing FlowHydrate for App Store release:
 
-### Assets
-- [ ] App icon (1024×1024 px, no transparency, no rounded corners)
-- [ ] Screenshots for all required device sizes:
-  - [ ] iPhone 6.9" (iPhone 16 Pro Max)
-  - [ ] iPhone 6.3" (iPhone 16 Pro)
-  - [ ] iPad Pro 13" (if supporting iPad)
-
-### App Store Connect Metadata
-- [ ] App name and subtitle
-- [ ] App description (up to 4000 characters)
-- [ ] Keywords (up to 100 characters, comma-separated)
-- [ ] Category: Health & Fitness (primary), Productivity (secondary)
-- [ ] Privacy policy URL
-- [ ] Support URL
-- [ ] Marketing URL (optional)
-
 ### Privacy & Permissions
 - [ ] HealthKit usage description in `Info.plist`
 - [ ] Notification usage description
